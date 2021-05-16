@@ -18,6 +18,8 @@ chmod +x uninstall.sh
 
 ## Usage
 
+    bash <(curl -L -s https://raw.githubusercontent.com/lmc999/portmon/master/port_traffic.sh)
+
 Config ports you need to monitor
 
 Edit config `~/.portmon/portmon.ini`
